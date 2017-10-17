@@ -39,7 +39,7 @@
     slideBy: 1,
     responsive: {
       550: {
-        items: 3
+        items: 2
       }
     }
   });
